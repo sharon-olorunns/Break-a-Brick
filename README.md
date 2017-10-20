@@ -1,2 +1,2 @@
 Break-a-Brick
-Simple Brick breaking game using Java
+Brick breaking game I coded in Java
